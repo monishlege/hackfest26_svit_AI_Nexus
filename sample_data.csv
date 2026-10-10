@@ -1,0 +1,11 @@
+id,product_name,category,region,units_sold,unit_price,rating,date
+1,Apex Mechanical Keyboard,Electronics,North,120,85.5,4.8,2026-01-10
+2,Ergonomic Desk Chair,Furniture,East,45,249.99,4.2,2026-01-12
+3,"Ultrawide Monitor 34""",Electronics,West,85,420.0,4.6,2026-01-15
+4,Wireless Mouse,Electronics,South,310,29.99,4.4,2026-01-18
+5,Standing Desk Frame,Furniture,North,60,310.5,4.5,2026-01-20
+6,Noise-Cancelling Headphones,Electronics,East,195,199.0,4.7,2026-01-22
+7,LED Desk Lamp,Lighting,South,240,45.0,4.1,2026-01-25
+8,USB-C Docking Station,Electronics,West,140,129.99,4.3,2026-01-28
+9,Mesh Office Stool,Furniture,North,90,149.5,4.0,2026-02-02
+10,Mechanical Numeric Pad,Electronics,East,175,39.99,4.6,2026-02-05

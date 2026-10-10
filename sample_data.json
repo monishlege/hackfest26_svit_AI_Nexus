@@ -1,0 +1,102 @@
+[
+  {
+    "id":1,
+    "product_name":"Apex Mechanical Keyboard",
+    "category":"Electronics",
+    "region":"North",
+    "units_sold":120,
+    "unit_price":85.5,
+    "rating":4.8,
+    "date":"2026-01-10"
+  },
+  {
+    "id":2,
+    "product_name":"Ergonomic Desk Chair",
+    "category":"Furniture",
+    "region":"East",
+    "units_sold":45,
+    "unit_price":249.99,
+    "rating":4.2,
+    "date":"2026-01-12"
+  },
+  {
+    "id":3,
+    "product_name":"Ultrawide Monitor 34\"",
+    "category":"Electronics",
+    "region":"West",
+    "units_sold":85,
+    "unit_price":420.0,
+    "rating":4.6,
+    "date":"2026-01-15"
+  },
+  {
+    "id":4,
+    "product_name":"Wireless Mouse",
+    "category":"Electronics",
+    "region":"South",
+    "units_sold":310,
+    "unit_price":29.99,
+    "rating":4.4,
+    "date":"2026-01-18"
+  },
+  {
+    "id":5,
+    "product_name":"Standing Desk Frame",
+    "category":"Furniture",
+    "region":"North",
+    "units_sold":60,
+    "unit_price":310.5,
+    "rating":4.5,
+    "date":"2026-01-20"
+  },
+  {
+    "id":6,
+    "product_name":"Noise-Cancelling Headphones",
+    "category":"Electronics",
+    "region":"East",
+    "units_sold":195,
+    "unit_price":199.0,
+    "rating":4.7,
+    "date":"2026-01-22"
+  },
+  {
+    "id":7,
+    "product_name":"LED Desk Lamp",
+    "category":"Lighting",
+    "region":"South",
+    "units_sold":240,
+    "unit_price":45.0,
+    "rating":4.1,
+    "date":"2026-01-25"
+  },
+  {
+    "id":8,
+    "product_name":"USB-C Docking Station",
+    "category":"Electronics",
+    "region":"West",
+    "units_sold":140,
+    "unit_price":129.99,
+    "rating":4.3,
+    "date":"2026-01-28"
+  },
+  {
+    "id":9,
+    "product_name":"Mesh Office Stool",
+    "category":"Furniture",
+    "region":"North",
+    "units_sold":90,
+    "unit_price":149.5,
+    "rating":4.0,
+    "date":"2026-02-02"
+  },
+  {
+    "id":10,
+    "product_name":"Mechanical Numeric Pad",
+    "category":"Electronics",
+    "region":"East",
+    "units_sold":175,
+    "unit_price":39.99,
+    "rating":4.6,
+    "date":"2026-02-05"
+  }
+]
